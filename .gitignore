@@ -1,0 +1,24 @@
+# ---- 敏感凭证（勿入库）----
+cookie.txt
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# ---- 下载产物（音频二进制；保留 downloads/report.json 验证记录）----
+downloads/*.mp3
+downloads/*.m4a
+downloads/*.flac
+downloads/*.aac
+downloads/*.ogg
+
+# ---- 系统 / 编辑器 ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
+*.swp

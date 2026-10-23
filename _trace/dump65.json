@@ -1,0 +1,75 @@
+{
+ "vmods": {
+  "467": {
+   "len": 22881,
+   "ctx": ".total},F=[],k.creator.lvinfo)for(U=0,B=k.creator.lvinfo.length;U<B;U++)Q=k.creator.lvinfo[U],H=Q.iconurl.replace(/\\/pc\\//gi,\"/mac/\"),V=-1!==H.indexOf(\"/mac/n\"),z=\"//y.qq.com/portal/vipportal/index.html\",-1!==H.indexOf(\"/mac/\")&&(H=H.replace(\".png\",\"@2x.png\")),-1!==H.indexOf(\"xvip\")||-1!==H.indexOf(\"xz\")?z=\"//xing.qq.com/\":-1!==H.indexOf(\"sui\")&&(z=\"//y.qq.com/vip/fufeibao/index.html\"),F.push({jumpurl:z,picurl:H,year:V});if(G=!1,W={},O&&c){e.next=53;break}if(!c){e.next=51;break}return e.next=49,N({sub:\"album\",start:0,num:30},!0);case 49:0===(W=e.sent).boughtTotal&&0===W.periTotal&&0===W.songTotal||(G=!0);case 51:e.next=54;break;case 53:G=!0;case 54:return K=w?w.id:0,Y={avatarUrl:k.creator.headpic,userInfoUI:k.creator.userInfoUI,name:_(b(null===k||void 0===k||null===(m=k.creator)||void 0==="
+  }
+ },
+ "hits": [
+  {
+   "mo": "music.music.vkey",
+   "me": "GetVkey",
+   "r": {
+    "code": 500003,
+    "subcode": 860100001
+   }
+  },
+  {
+   "mo": "music.music.vkey",
+   "me": "getVkey",
+   "r": {
+    "code": 500003,
+    "subcode": 860100001
+   }
+  },
+  {
+   "mo": "music.music.vkey",
+   "me": "GetPlayUrl",
+   "r": {
+    "code": 500003,
+    "subcode": 860100001
+   }
+  },
+  {
+   "mo": "music.music.vkey",
+   "me": "getPlayUrl",
+   "r": {
+    "code": 500003,
+    "subcode": 860100001
+   }
+  },
+  {
+   "mo": "music.music.vkey",
+   "me": "GetUrl",
+   "r": {
+    "code": 500003,
+    "subcode": 860100001
+   }
+  },
+  {
+   "mo": "music.music.vkey",
+   "me": "getUrl",
+   "r": {
+    "code": 500003,
+    "subcode": 860100001
+   }
+  },
+  {
+   "mo": "music.music.vkey",
+   "me": "GetMusicUrl",
+   "r": {
+    "code": 500003,
+    "subcode": 860100001
+   }
+  },
+  {
+   "mo": "music.music.vkey",
+   "me": "Get",
+   "r": {
+    "code": 500003,
+    "subcode": 860100001
+   }
+  }
+ ],
+ "guid": "3329277760"
+}

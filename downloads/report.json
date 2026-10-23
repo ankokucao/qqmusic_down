@@ -1,0 +1,132 @@
+[
+  {
+    "song": "万里长风",
+    "quality": "rs02",
+    "filename": "RS02000NBVdP3wg95P.mp3",
+    "result": 0,
+    "url": "http://aqqmusic.tc.qq.com/RS02000NBVdP3wg95P.mp3?guid=264239680&vkey=B412F8A4A6132BB7026B1D8FD5C0CE81153EF262BF428E054CFA6CAB28919339946CE7FB91CB12A3DED9D6E001D2ABE9613535E97A53DADA__v21e2973e4&uin=1152921504608413217&fromtag=120052",
+    "status": "DL_FAIL",
+    "err": "HTTP Error 404: Not Found"
+  },
+  {
+    "song": "万里长风",
+    "quality": "c400",
+    "filename": "C400000NBVdP3wg95P.m4a",
+    "result": 0,
+    "url": "http://aqqmusic.tc.qq.com/C400000NBVdP3wg95P.m4a?guid=7645825160&vkey=B97A2BFD6EF67C3B677DC4BEDC9EBC117C90D3C0855E9B0799EB84E2D5579B1AC14F8E7BEA12324156D6442FDDAE8945FF822AA471CC2830__v2150c6ba6&uin=1152921504608413217&fromtag=120032&src=C4000001vGsc2fYymr.m4a",
+    "bytes": 3626723,
+    "type": "audio/mp4",
+    "http": 200,
+    "md5": "ce43e2d569b7f6e8ae027b2b09b727b5",
+    "status": "OK",
+    "vkey_expire_s": 80400
+  },
+  {
+    "song": "万里长风",
+    "quality": "m500",
+    "filename": "M500000NBVdP3wg95P.mp3",
+    "result": 0,
+    "url": "http://aqqmusic.tc.qq.com/M500000NBVdP3wg95P.mp3?guid=6912351538&vkey=D8AFC511BB90AA4DB0BA1ED58DCD4E67A1F2D38FCDA2C797C6E98A56CEA0D84E72A45222125483495AE6EF3D6790CD48E42877C1F12E5504__v21ea05ffe&uin=1152921504608413217&fromtag=120042&src=M5000001vGsc2fYymr.mp3",
+    "bytes": 4721880,
+    "type": "audio/mpeg",
+    "http": 200,
+    "md5": "ff3432ce123121722cff5cca609ad434",
+    "status": "OK",
+    "vkey_expire_s": 80400
+  },
+  {
+    "song": "万里长风",
+    "quality": "m800",
+    "filename": "M800000NBVdP3wg95P.mp3",
+    "result": 104003,
+    "status": "NO_STREAM"
+  },
+  {
+    "song": "万里长风",
+    "quality": "f000",
+    "filename": "F000000NBVdP3wg95P.flac",
+    "result": 104003,
+    "status": "NO_STREAM"
+  },
+  {
+    "song": "晴天",
+    "quality": "rs02",
+    "filename": "RS02003Qui1q2u1Zho.mp3",
+    "result": 0,
+    "url": "http://aqqmusic.tc.qq.com/RS02003Qui1q2u1Zho.mp3?guid=5329923852&vkey=0344020704D276F32406BBC06571EE80A2ABA13831462382ACBBFF590D93D2BE3C05A7D506B13A4435835716B0DE7BFF3A04A5584061479F__v21e297df5&uin=1152921504608413217&fromtag=120052",
+    "bytes": 960887,
+    "type": "audio/mpeg",
+    "http": 200,
+    "md5": "68a159a1569b9e80b1dd4791aae6552d",
+    "status": "OK",
+    "vkey_expire_s": 80400
+  },
+  {
+    "song": "晴天",
+    "quality": "c400",
+    "filename": "C400003Qui1q2u1Zho.m4a",
+    "result": 104003,
+    "status": "NO_STREAM"
+  },
+  {
+    "song": "晴天",
+    "quality": "m500",
+    "filename": "M500003Qui1q2u1Zho.mp3",
+    "result": 104003,
+    "status": "NO_STREAM"
+  },
+  {
+    "song": "七里香",
+    "quality": "rs02",
+    "filename": "RS020012Ez0a1tFcOI.mp3",
+    "result": 0,
+    "url": "http://aqqmusic.tc.qq.com/RS020012Ez0a1tFcOI.mp3?guid=5655805265&vkey=91C9FDAF55D754D7C1FD20D32D95F39AD88D79B9B0ED666101533770F186A1554C459624F11BB4BFA4AEAF2BBBF3E36A411214FECDB0AF07__v215257c3c&uin=1152921504608413217&fromtag=120052",
+    "bytes": 960887,
+    "type": "audio/mpeg",
+    "http": 200,
+    "md5": "d383c1f35cb1066f7ce3763e6c4a6113",
+    "status": "OK",
+    "vkey_expire_s": 80400
+  },
+  {
+    "song": "七里香",
+    "quality": "c400",
+    "filename": "C4000012Ez0a1tFcOI.m4a",
+    "result": 104003,
+    "status": "NO_STREAM"
+  },
+  {
+    "song": "七里香",
+    "quality": "m500",
+    "filename": "M5000012Ez0a1tFcOI.mp3",
+    "result": 104003,
+    "status": "NO_STREAM"
+  },
+  {
+    "song": "演员",
+    "quality": "rs02",
+    "filename": "RS02002rAkMl4bBHo6.mp3",
+    "result": 0,
+    "url": "http://aqqmusic.tc.qq.com/RS02002rAkMl4bBHo6.mp3?guid=5342943885&vkey=870BB5223F550F750EEAD7ABFEEC284C50E935D0EF14EEAB0CBAB4E785EACDA755E50385952FD6F30AB50A840FF7CA1257A804F79FC78F78__v215257c3c&uin=1152921504608413217&fromtag=120052",
+    "bytes": 960887,
+    "type": "audio/mpeg",
+    "http": 200,
+    "md5": "8ecb19c028c5893298a1f56306563f2c",
+    "status": "OK",
+    "vkey_expire_s": 80400
+  },
+  {
+    "song": "演员",
+    "quality": "c400",
+    "filename": "C400002rAkMl4bBHo6.m4a",
+    "result": 104003,
+    "status": "NO_STREAM"
+  },
+  {
+    "song": "演员",
+    "quality": "m500",
+    "filename": "M500002rAkMl4bBHo6.mp3",
+    "result": 104003,
+    "status": "NO_STREAM"
+  }
+]

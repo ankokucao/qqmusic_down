@@ -1,0 +1,35 @@
+{
+ "m8_len": 198075,
+ "ctx_musics": "obalThis?globalThis:\"undefined\"!==typeof window?window:\"undefined\"!==typeof self?self:void 0).__TmeWebSec_D,delete(\"undefined\"!==typeof globalThis?globalThis:\"undefined\"!==typeof window?window:\"undefined\"!==typeof self?self:void 0).__TmeWebSec_fingerprint,delete(\"undefined\"!==typeof globalThis?globalThis:\"undefined\"!==typeof window?window:\"undefined\"!==typeof self?self:void 0).__TmeWebSec_report,delete(\"undefined\"!==typeof globalThis?globalThis:\"undefined\"!==typeof window?window:\"undefined\"!==typeof self?self:void 0).__TmeWebSec_seccgi,delete(\"undefined\"!==typeof globalThis?globalThis:\"undefined\"!==typeof window?window:\"undefined\"!==typeof self?self:void 0).__TmeWebSec_sign;var oe;Y.isBrowser&&(oe=document.createElement(\"a\"));var ae={type:\"GET\",data:{},dataType:\"json\",beforeSend:null,success:null,error:null,complete:null,accepts:{script:\"text/javascript, application/javascript, application/x-javascript\",json:\"application/json\",xml:\"application/xml, text/xml\",html:\"text/html\",text:\"text/plain\",arraybuffer:\"application/octet-stream\"},crossDomain:!0,time:0},se=function(e,t){return void 0===t&&(t=!1),ee(void 0,void 0,void 0,regeneratorRuntime.mark((function n(){var r,i,o,a,s,u,c,l,A,f,h,g;return regeneratorRuntime.wrap((function(n){for(;;)switch(n.prev=n.next){case 0:if(r=N(!0,{},ae,e),i=r.needSign&&-1!==r.url.indexOf(\"cgi-bin/musicu.fcg\")&&Y.isBrowser,o=r.dataType.toLowerCase(),r.url=z({_:Date.now()},r.url),\"GET\"===r.type.toUpperCase()?(r.url=z(r.data,r.url),r.data=void 0):\"string\"===typeof r.data||r.data instanceof FormData||(r.data=JSON.stringify(r.data)),a=r.data,s=new XMLHttpRequest,!i){n.next=19;break}return n.next=10,ie.getSecuritySign(r.data);case 10:return u=n.sent,n.next=13,re.encrypt(r.data);case 13:r.data=n.sent,r.url=r.url.replace(\"cgi-bin/musicu.fcg\",\"cgi-bin/musics.fcg\"),r.url=z({encoding:\"ag-1\",sign:u},r.url),r.contentType=\"text/plain\",s.responseType=\"arraybuffer\",o=\"arraybuffer\";case 19:return c=ae.accepts[o],l={},A=/^([\\w-]+:)\\/\\//.test(r.url)?RegExp.$1:window.location.protocol,l.Accept=c||\"*/*\",r.crossDomain||((h=document.createElement(\"a\")).href=r.url,r.crossDomain=oe.protocol+\"//\"+oe.host!==h.protocol+\"//\"+h.host,l[\"X-Requested-With\"]=\"XMLHttpRequest\"),r.mimeType&&((c=r.mimeType).indexOf(\",\")>-1&&(g=c.split(\",\",2),c=g[0]),s.overrideMimeType&&s.overrideMimeType(c)),(r.contentType||r.data&&\"GET\"!==r.type.toUpperCase()&&!(r.data instanceof FormData))&&(l[\"Content-Type\"]=r.contentType||\"application/x-www-form-urlencoded\"),l=Object.assign(l,r.headers),n.abrupt(\"return\",new Promise((function(e,n){s.onreadystatechange=function(){if(4===s.readyState){clearTimeout(f);var o=null,u=null;if(s.status>=200&&s.status<=300||304===s.status||0===s.status&&\"file:\"===A){var l=c||s.getResponseHeader(\"content-type\");try{/^(?:text|application)\\/xml/i.test(l)?u=s.responseXML:\"application/json\"===l?u=/^\\s*$/.test(s.responseText)?null:JSON.parse(s.responseText):\"application/octet-stream\"===l?2001===(u=i?JSON.parse(re.decrypt(s.response)):s.response).code&",
+ "ctx_encParam": "(\"qqmusic_key\");if(n<1e4)window.open(e);else{var i=\"https://ssl.ptlogin2.qq.com/jump?pgv_ref=\"+t+\"&keyindex=14&clientuin=\"+n+\"&clientkey=\"+r+\"&u1=\"+encodeURIComponent(e);window.open(i)}},getVideoPicUrl:function(e){return e?\"//puui.qpic.cn/qqvideo_ori/0/\"+e+\"_228_128/0\":X(\"mv\")},formatDate:function(e){var t=new Date,n=t.getFullYear(),r=t.getMonth()+1,i=t.getDate();if(\"Invalid Date\"===e)return\"\";if(\"number\"===typeof e&&e>0){var o=new Date(1e3*e),a=o.getFullYear(),s=o.getMonth()+1,u=o.getDate(),c=o.getHours(),l=o.getMinutes(),A=\"\";return a!==n&&(A+=a+\"\\u5e74\"),a===n&&s===r&&u===i||(A+=s+\"\\u6708\"+u+\"\\u65e5 \"),A+(c<10?\"0\"+c:c)+\":\"+(l<10?\"0\"+l:l)}return\"\"},isString:H,copyText:function(e,t){if(document.queryCommandSupported&&document.queryCommandSupported(\"copy\")){var n=document.createElement(\"textarea\");n.textContent=e,n.style.position=\"fixed\",document.body.appendChild(n),n.select();try{document.execCommand(\"copy\"),t&&t()}catch(r){}finally{document.body.removeChild(n)}}},getSongSinglePic:function(e,t){var n=L;return\"string\"===typeof e&&e.length>=14&&(n=\"//y.qq.com/music/photo_new/T062R\"+(t||300)+\"x\"+(t||300)+\"M000\"+e+\".jpg?max_age=2592000\"),n}});function ee(e,t,n,r){return new(n||(n=Promise))((function(i,o){function a(e){try{u(r.next(e))}catch(Ei){o(Ei)}}function s(e){try{u(r.throw(e))}catch(Ei){o(Ei)}}function u(e){var t;e.done?i(e.value):(t=e.value,t instanceof n?t:new n((function(e){e(t)}))).then(a,s)}u((r=r.apply(e,t||[])).next())}))}function te(e){var t=e.param,n=e.result,r=e.encParam,i=e.isRetry;ee(void 0,void 0,void 0,regeneratorRuntime.mark((function e(){return regeneratorRuntime.wrap((function(e){for(;;)switch(e.prev=e.next){case 0:if(window.reportCgi){e.next=2;break}return e.abrupt(\"return\",new Promise((function(e){var t=document.createElement(\"script\");t.type=\"text/javascript\",t.src=\"//y.qq.com/component/m/qmfe-sdk-cgi/iife/index.js?max_age=2592000\",document.body.appendChild(t),t.onload=function(){e()}})));case 2:case\"end\":return e.stop()}}),e)}))).then((function(){window.reportCgi.reportSend(\"webcomm\",{cmd:\"27\",str1:t,str2:location.href,str3:navigator.userAgent,str4:n,str5:r,str6:typeof crypto,str7:\"undefined\"===typeof crypto?\"undefined\":typeof crypto.subtle,str8:typeof TextEncoder,int1:0,int2:i?1:0})}))}(function(){var e=[];function t(e,t,n){for(var r=[],i=0;i++<t;)r.push(e+=n);return r}var n=t(0,43,0).concat([62,0,62,0,63]).concat(t(51,10,1)).concat(t(0,8,0)).concat(t(0,25,1)).concat([0,0,0,0,63,0]).concat(t(25,26,1));function r(e){for(var t,r,i=String(e).replace(/[=]+$/,\"\"),o=i.length,a=0,s=0,u=[];s<o;s++)~(r=n[i.charCodeAt(s)])&&(t=a%4?64*t+r:r,a++%4)&&u.push(255&t>>(-2*a&6));return u}function i(e){return e>>1^-(1&e)}var o=function(e){for(var t=[],n=\"undefined\"!=typeof Int8Array?new Int8Array(r(e)):r(e),o=n.length,a=0;o>a;){var s=n[a++],u=127&s;s>=0?t.push(i(u)):(u|=(127&(s=n[a++]))<<7,s>=0||(u|=(127&(s=n[a++]))<<14,s>=0||(u|=(127&(s=n[a++]))<<21,s>=0||(u|=(s=n[a++])<<28))),t.push(i(u)))}return t};return function(t,n){var r=o(t),i=funct",
+ "ctx_vkey": null,
+ "has6151": false,
+ "has6151_src": null,
+ "mods___cgiEncrypt": [],
+ "mods_ag-1": [
+  "8"
+ ],
+ "mods_GetVkey": [],
+ "mods_vkeyProxyUrl": [],
+ "mods_qqmusic_guid": [
+  "8"
+ ],
+ "spd": [
+  "version",
+  "enabled",
+  "flag",
+  "timing",
+  "_timing",
+  "start",
+  "now",
+  "last",
+  "result",
+  "extra",
+  "ready",
+  "init",
+  "mark",
+  "markStart",
+  "markEnd",
+  "report"
+ ]
+}

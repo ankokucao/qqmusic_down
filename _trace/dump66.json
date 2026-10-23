@@ -1,0 +1,29 @@
+{
+ "res": [
+  {
+   "mo": "music.pf_song_detail_svr",
+   "me": "GetSongDetail",
+   "r": "[{\"code\":500005}]"
+  },
+  {
+   "mo": "music.pf_song_detail_svr",
+   "me": "GetSongDetail",
+   "r": "[{\"code\":500005}]"
+  },
+  {
+   "mo": "music.pf_song_detail_svr",
+   "me": "GetPfSongDetail",
+   "r": "[{\"code\":500005}]"
+  },
+  {
+   "mo": "music.musichallSong.PlayLyricInfo",
+   "me": "GetPlayLyricInfo",
+   "r": "[{\"code\":24001,\"data\":{\"songID\":0,\"songName\":\"\",\"songType\":0,\"singerName\":\"\",\"qrc\":0,\"crypt\":0,\"lyric\":\"\",\"trans\":\"\",\"roma\":\"\",\"lrc_t\":0,\"qrc_t\":0,\"trans_t\":0,\"roma_t\":0,\"lyric_style\":0,\"classical\":0,\"introduceTitle\":\"\",\"introduceText\":null,\"vecSongID\":null,\"track\":{\"id\":0,\"type\":0,\"mid\":\"\",\"name\":\"\",\"title\":\"\",\"subtitle\":\"\",\"singer\":null,\"album\":{\"id\":0,\"mid\":\"\",\"name\":\"\",\"title\":\"\",\"subtitle\":\"\",\"time_public\":\"\",\"pmid\":\"\"},\"mv\":{\"id\":0,\"vid\":\"\",\"name\":\"\",\"title\":\"\",\"vt\":0},\"interval\":0,\"isonly\":0,\"language\":0,\"genre\":0,\"index_cd\":0,\"index_album\":0,\"time_public\":\"\",\"status\":0,\"fnote\":0,\"file\":{\"media_mid\":\"\",\"size_24aac\":0,\"size_48aac\":0,\"size_96aac\":0,\"size_192ogg\":0,\"size_192aac\":0,\"size_128mp3\":0,\"size_320mp3\":0,\"size_ape\":0,\"size_flac\":0,\"size_dts\":0,\"size_try\":0,\"try_begin\":0,\"try_end\":0,\"url\":\"\",\"size_hires\":0,\"hires_sample\":0,\"hires_bitdepth\":0,\"b_30s\":0,\"e_30s\":0,\"size_96ogg\":0,\"size_360ra\":null,\"size_dolby\":0,\"size_new\":null},\"pay\":{\"pay_month\":0,\"price_track\":0,\"price_album\":0,\"pay_play\":0,\"pay_down\":0,\"pay_status\":0,\"time_free\":0},\"action\":{\"switch\":0,\"msgid\":0,\"alert\":0,\"icons\":0,\"msgshare\":0,\"msgfav\":0,\"msgdown\":0,\"msgpay\":0,\"switch2\":0,\"icon2\":0},\"ksong\":{\"id\":0,\"mid\":\"\"},\"volume\":{\"gain\":0,\"peak\":0,\"lra\":0},\"label\":\"\",\"url\":\"\",\"bpm\":0,\"version\":0,\"trace\":\"\",\"data_type\":0,\"modify_stamp\":0,\"pingpong\":\"\",\"aid\":0,\"ppurl\":\"\",\"tid\":0,\"ov\":0,\"sa\":0,\"es\":\"\",\"vs\":null,\"vi\":null,\"ktag\":\"\",\"vf\":null,\"va\":null},\"startTs\":0,\"transSource\":0,\"hasContributor\":false,\"hasTransContributor\":false,\"singingAnnotationsLyric\":\"\",\"singingAnnotationsTs\":0,\"hasMultiTrans\":false,\"lt_lyric\":\"\",\"lt_lyric_t\":0}}]"
+  },
+  {
+   "mo": "music.trackInfo.UniformRuleCtrl",
+   "me": "GetUniformRuleCtrl",
+   "r": "[{\"code\":40000}]"
+  }
+ ]
+}

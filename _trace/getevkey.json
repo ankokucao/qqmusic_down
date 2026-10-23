@@ -1,0 +1,308 @@
+{
+ "res": [
+  {
+   "song": "万里长风(免费)",
+   "file": true,
+   "r": [
+    {
+     "code": 0,
+     "data": {
+      "uin": "",
+      "retcode": 0,
+      "verify_type": 0,
+      "login_key": "",
+      "msg": "222.71.120.13;fnameHitCache_404",
+      "sip": [
+       "http://aqqmusic.tc.qq.com/",
+       "http://sjy6.stream.qqmusic.qq.com/"
+      ],
+      "thirdip": [
+       "",
+       ""
+      ],
+      "testfile2g": "C400003mAan70zUy5O.m4a?guid=4039237291&vkey=7B9892BFD8FF94D5DC9E961CCDD1A7CB4164D95C9BD69207A10A10DC5B94958B87A8ACEAA0A90615405EC5B8ABAA5DF2AA9851AAA622E59D__v21ea05ffe&uin=&fromtag=3",
+      "testfilewifi": "C400003mAan70zUy5O.m4a?guid=4039237291&vkey=7B9892BFD8FF94D5DC9E961CCDD1A7CB4164D95C9BD69207A10A10DC5B94958B87A8ACEAA0A90615405EC5B8ABAA5DF2AA9851AAA622E59D__v21ea05ffe&uin=&fromtag=3",
+      "midurlinfo": [
+       {
+        "songmid": "000NBVdP3wg95P",
+        "filename": "RS02000NBVdP3wg95P.mp3",
+        "purl": "RS02000NBVdP3wg95P.mp3?guid=4039237291&vkey=926A01BB2C7FB4B2BA74C12FA66EB0A9663AFC142434D33C75B0BD3E4ABB58BAB31B3C16F9D13110805591A59EB1F4E12C25EE8D03DCE167__v21ea05ffe&uin=1152921504608413217&fromtag=120052",
+        "errtype": "",
+        "p2pfromtag": 0,
+        "qmdlfromtag": 0,
+        "common_downfromtag": 0,
+        "vip_downfromtag": 0,
+        "pdl": 0,
+        "premain": 0,
+        "hisdown": 0,
+        "hisbuy": 0,
+        "uiAlert": 0,
+        "isbuy": 0,
+        "pneedbuy": 0,
+        "pneed": 0,
+        "isonly": 0,
+        "onecan": 0,
+        "result": 0,
+        "tips": "",
+        "opi48kurl": "",
+        "opi96kurl": "",
+        "opi192kurl": "",
+        "opiflackurl": "",
+        "opi128kurl": "",
+        "opi192koggurl": "",
+        "wififromtag": "",
+        "flowfromtag": "",
+        "wifiurl": "",
+        "flowurl": "",
+        "vkey": "926A01BB2C7FB4B2BA74C12FA66EB0A9663AFC142434D33C75B0BD3E4ABB58BAB31B3C16F9D13110805591A59EB1F4E12C25EE8D03DCE167__v21ea05ffe",
+        "opi30surl": "",
+        "ekey": "",
+        "auth_switch": 16889603,
+        "subcode": 0,
+        "opi96koggurl": "",
+        "auth_switch2": 131072,
+        "xcdnurl": "http://isure6-stream-qqmusic.a.bdycdn.cn/aqqmusic.tc.qq.com/RS02000NBVdP3wg95P.mp3?fromtag=120052&guid=4039237291&qqm_typec_md5hash=d9d986ba3ab17f6752194bbece22c5fd&qqm_typec_timestamp=6ad88619&uin=1152921504608413217&vkey=926A01BB2C7FB4B2BA74C12FA66EB0A9663AFC142434D33C75B0BD3E4ABB58BAB31B3C16F9D13110805591A59EB1F4E12C25EE8D03DCE167__v21ea05ffe",
+        "mid": "000NBVdP3wg95P",
+        "df": null
+       }
+      ],
+      "servercheck": "a89acd9194ca4c1e78c7cb21862fa10b",
+      "expiration": 80400,
+      "deviceResult": "",
+      "validUrl": "",
+      "validTitle": "",
+      "validText": ""
+     }
+    }
+   ]
+  },
+  {
+   "song": "万里长风(免费)",
+   "file": false,
+   "r": [
+    {
+     "code": 0,
+     "data": {
+      "uin": "",
+      "retcode": 0,
+      "verify_type": 0,
+      "login_key": "",
+      "msg": "222.71.120.13;fnameHitCache_200",
+      "sip": [
+       "http://aqqmusic.tc.qq.com/",
+       "http://sjy6.stream.qqmusic.qq.com/"
+      ],
+      "thirdip": [
+       "",
+       ""
+      ],
+      "testfile2g": "C400003mAan70zUy5O.m4a?guid=9926901650&vkey=31F9C8BF031408564F93195D45411AED3C21B54A05BF530F638A5B5D4FFB03F6248102251BF305974BA13447AB239B4912D53C568F963A98__v2150c6ba6&uin=&fromtag=3",
+      "testfilewifi": "C400003mAan70zUy5O.m4a?guid=9926901650&vkey=31F9C8BF031408564F93195D45411AED3C21B54A05BF530F638A5B5D4FFB03F6248102251BF305974BA13447AB239B4912D53C568F963A98__v2150c6ba6&uin=&fromtag=3",
+      "midurlinfo": [
+       {
+        "songmid": "000NBVdP3wg95P",
+        "filename": "C400000NBVdP3wg95P.m4a",
+        "purl": "C400000NBVdP3wg95P.m4a?guid=9926901650&vkey=F3A553AE476EEF96DA325940F705E46E6400A9C0BEB7E65DED8F25844FA7649090F08D54BF94F8874E9A0377DA5BCBA7E4F2B023BA973012__v2150c6ba6&uin=1152921504608413217&fromtag=120032&src=C4000001vGsc2fYymr.m4a",
+        "errtype": "",
+        "p2pfromtag": 0,
+        "qmdlfromtag": 0,
+        "common_downfromtag": 0,
+        "vip_downfromtag": 0,
+        "pdl": 0,
+        "premain": 0,
+        "hisdown": 0,
+        "hisbuy": 0,
+        "uiAlert": 0,
+        "isbuy": 0,
+        "pneedbuy": 0,
+        "pneed": 0,
+        "isonly": 0,
+        "onecan": 0,
+        "result": 0,
+        "tips": "",
+        "opi48kurl": "",
+        "opi96kurl": "",
+        "opi192kurl": "",
+        "opiflackurl": "",
+        "opi128kurl": "",
+        "opi192koggurl": "",
+        "wififromtag": "",
+        "flowfromtag": "",
+        "wifiurl": "",
+        "flowurl": "",
+        "vkey": "F3A553AE476EEF96DA325940F705E46E6400A9C0BEB7E65DED8F25844FA7649090F08D54BF94F8874E9A0377DA5BCBA7E4F2B023BA973012__v2150c6ba6",
+        "opi30surl": "",
+        "ekey": "",
+        "auth_switch": 16889603,
+        "subcode": 0,
+        "opi96koggurl": "",
+        "auth_switch2": 131072,
+        "xcdnurl": "http://isure6-stream-qqmusic.a.bdycdn.cn/aqqmusic.tc.qq.com/C400000NBVdP3wg95P.m4a?fromtag=120032&guid=9926901650&qqm_typec_md5hash=2cd8b5d962a048ec3e03d8d13f589403&qqm_typec_timestamp=6ad88619&src=C4000001vGsc2fYymr.m4a&uin=1152921504608413217&vkey=F3A553AE476EEF96DA325940F705E46E6400A9C0BEB7E65DED8F25844FA7649090F08D54BF94F8874E9A0377DA5BCBA7E4F2B023BA973012__v2150c6ba6",
+        "mid": "000NBVdP3wg95P",
+        "df": null
+       }
+      ],
+      "servercheck": "aec9373035f8918fa5a9f781c486e497",
+      "expiration": 80400,
+      "deviceResult": "",
+      "validUrl": "",
+      "validTitle": "",
+      "validText": ""
+     }
+    }
+   ]
+  },
+  {
+   "song": "晴天(VIP)",
+   "file": true,
+   "r": [
+    {
+     "code": 0,
+     "data": {
+      "uin": "",
+      "retcode": 0,
+      "verify_type": 0,
+      "login_key": "",
+      "msg": "222.71.120.13;fnameHitCache_200",
+      "sip": [
+       "http://aqqmusic.tc.qq.com/",
+       "http://sjy6.stream.qqmusic.qq.com/"
+      ],
+      "thirdip": [
+       "",
+       ""
+      ],
+      "testfile2g": "C400003mAan70zUy5O.m4a?guid=5982576708&vkey=C335F65C235DD15F0F5A4EA42D01E9FD45643BEF5D6A0DA49114536A1E0B20C093C954422E35D5F50619EF730709CB38E64F425BF66797C3__v2151931a9&uin=&fromtag=3",
+      "testfilewifi": "C400003mAan70zUy5O.m4a?guid=5982576708&vkey=C335F65C235DD15F0F5A4EA42D01E9FD45643BEF5D6A0DA49114536A1E0B20C093C954422E35D5F50619EF730709CB38E64F425BF66797C3__v2151931a9&uin=&fromtag=3",
+      "midurlinfo": [
+       {
+        "songmid": "0039MnYb0qxYhV",
+        "filename": "RS02003Qui1q2u1Zho.mp3",
+        "purl": "RS02003Qui1q2u1Zho.mp3?guid=5982576708&vkey=91A1978C9B78C83F6CD4C06143138EF63EDFCA22C644A1238F255264C3D862DCDD5901DB5F41A5DC78AD1EE55837A7891CE4656014B9962F__v2151931a9&uin=1152921504608413217&fromtag=120052",
+        "errtype": "",
+        "p2pfromtag": 0,
+        "qmdlfromtag": 0,
+        "common_downfromtag": 0,
+        "vip_downfromtag": 0,
+        "pdl": 0,
+        "premain": 0,
+        "hisdown": 0,
+        "hisbuy": 0,
+        "uiAlert": 0,
+        "isbuy": 0,
+        "pneedbuy": 0,
+        "pneed": 0,
+        "isonly": 0,
+        "onecan": 0,
+        "result": 0,
+        "tips": "",
+        "opi48kurl": "",
+        "opi96kurl": "",
+        "opi192kurl": "",
+        "opiflackurl": "",
+        "opi128kurl": "",
+        "opi192koggurl": "",
+        "wififromtag": "",
+        "flowfromtag": "",
+        "wifiurl": "",
+        "flowurl": "",
+        "vkey": "91A1978C9B78C83F6CD4C06143138EF63EDFCA22C644A1238F255264C3D862DCDD5901DB5F41A5DC78AD1EE55837A7891CE4656014B9962F__v2151931a9",
+        "opi30surl": "",
+        "ekey": "",
+        "auth_switch": 16897793,
+        "subcode": 0,
+        "opi96koggurl": "",
+        "auth_switch2": 0,
+        "xcdnurl": "http://isure6-stream-qqmusic.a.bdycdn.cn/aqqmusic.tc.qq.com/RS02003Qui1q2u1Zho.mp3?fromtag=120052&guid=5982576708&qqm_typec_md5hash=6c93b616451a9e4e56f7da3c69c1d75d&qqm_typec_timestamp=6ad88619&uin=1152921504608413217&vkey=91A1978C9B78C83F6CD4C06143138EF63EDFCA22C644A1238F255264C3D862DCDD5901DB5F41A5DC78AD1EE55837A7891CE4656014B9962F__v2151931a9",
+        "mid": "003Qui1q2u1Zho",
+        "df": null
+       }
+      ],
+      "servercheck": "b8c56c28b30db926d0b1da6bb34af123",
+      "expiration": 80400,
+      "deviceResult": "",
+      "validUrl": "",
+      "validTitle": "",
+      "validText": ""
+     }
+    }
+   ]
+  },
+  {
+   "song": "晴天(VIP)",
+   "file": false,
+   "r": [
+    {
+     "code": 0,
+     "data": {
+      "uin": "",
+      "retcode": 0,
+      "verify_type": 0,
+      "login_key": "",
+      "msg": "222.71.120.13;fnameHitCache_200",
+      "sip": [
+       "http://aqqmusic.tc.qq.com/",
+       "http://sjy6.stream.qqmusic.qq.com/"
+      ],
+      "thirdip": [
+       "",
+       ""
+      ],
+      "testfile2g": "C400003mAan70zUy5O.m4a?guid=1202373480&vkey=B3820B9E55F91326F73AC5AFEEBC2EF14F73699498C32E26F74A422BC2234080716F9084707CEAFEC1D30C437206F76E6CAE34CC5B4CC721__v2151931a9&uin=&fromtag=3",
+      "testfilewifi": "C400003mAan70zUy5O.m4a?guid=1202373480&vkey=B3820B9E55F91326F73AC5AFEEBC2EF14F73699498C32E26F74A422BC2234080716F9084707CEAFEC1D30C437206F76E6CAE34CC5B4CC721__v2151931a9&uin=&fromtag=3",
+      "midurlinfo": [
+       {
+        "songmid": "0039MnYb0qxYhV",
+        "filename": "C400003Qui1q2u1Zho.m4a",
+        "purl": "",
+        "errtype": "",
+        "p2pfromtag": 0,
+        "qmdlfromtag": 0,
+        "common_downfromtag": 0,
+        "vip_downfromtag": 0,
+        "pdl": 0,
+        "premain": 0,
+        "hisdown": 0,
+        "hisbuy": 0,
+        "uiAlert": 0,
+        "isbuy": 0,
+        "pneedbuy": 0,
+        "pneed": 0,
+        "isonly": 0,
+        "onecan": 0,
+        "result": 104003,
+        "tips": "",
+        "opi48kurl": "",
+        "opi96kurl": "",
+        "opi192kurl": "",
+        "opiflackurl": "",
+        "opi128kurl": "",
+        "opi192koggurl": "",
+        "wififromtag": "",
+        "flowfromtag": "",
+        "wifiurl": "",
+        "flowurl": "",
+        "vkey": "",
+        "opi30surl": "",
+        "ekey": "",
+        "auth_switch": 16897793,
+        "subcode": 0,
+        "opi96koggurl": "",
+        "auth_switch2": 0,
+        "xcdnurl": "",
+        "mid": "003Qui1q2u1Zho",
+        "df": null
+       }
+      ],
+      "servercheck": "599b069a2fd3220dcc9fa791db903567",
+      "expiration": 80400,
+      "deviceResult": "",
+      "validUrl": "",
+      "validTitle": "",
+      "validText": ""
+     }
+    }
+   ]
+  }
+ ]
+}
